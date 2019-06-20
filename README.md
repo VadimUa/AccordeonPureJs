@@ -1,1 +1,2 @@
 # AccordeonPureJs
+Hello, my name is Vadim.Here will be my javascript code which creates web elements.As my fist task here i will create work repository using version control system GIT.As main task here will be created code which create an accordeon this is a base interface element which show the content after user click the appropriate button,after user click other button first button content will hide. Code was refactored and optimized.
